@@ -1,0 +1,1 @@
+gcc ./main.c -pthread -o ./prog.exe
